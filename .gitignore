@@ -30,3 +30,7 @@
 #Folders
 /bin
 /data
+#gtags
+GPATH
+GRTAGS
+GTAGS
